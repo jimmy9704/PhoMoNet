@@ -19,9 +19,9 @@ Testing code will be available upon acceptance of our manuscript.
 Training code will be available upon acceptance of our manuscript.
 
 ## Acknowledgments
-The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins).
+The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins) and [DMD](https://github.com/computational-imaging/single_spad_depth).
 
 ## Related works
-* [single spad depth](https://github.com/computational-imaging/single_spad_depth)
+* [DMD (single spad depth)](https://github.com/computational-imaging/single_spad_depth)
 * [Adabins](https://github.com/shariqfarooq123/AdaBins)
 * [BTS](https://github.com/cleinc/bts)
