@@ -47,12 +47,12 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">5</td>
-<td align="center">xxx</td>
-<td align="center">xxx</td>
-<td align="center">xxx </td>
-<td align="center">xxx</td>
-<td align="center">xxx</td>
-<td align="center">xxx</td>
+<td align="center">0.073</td>
+<td align="center">0.286</td>
+<td align="center">0.031</td>
+<td align="center">0.952</td>
+<td align="center">0.991</td>
+<td align="center">0.997</td>
 </tr>
 </tbody></table>
 
@@ -71,9 +71,9 @@ Testing code will be available upon acceptance of our manuscript.
 Training code will be available upon acceptance of our manuscript.
 
 ## Acknowledgments
-The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins) and [DMD](https://github.com/computational-imaging/single_spad_depth).
+The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins) and [single spad depth](https://github.com/computational-imaging/single_spad_depth).
 
 ## Related works
-* [DMD (single spad depth)](https://github.com/computational-imaging/single_spad_depth)
+* [single spad depth](https://github.com/computational-imaging/single_spad_depth)
 * [Adabins](https://github.com/shariqfarooq123/AdaBins)
 * [BTS](https://github.com/cleinc/bts)
