@@ -9,13 +9,13 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom">Method</th>
-<th valign="bottom">Backbone</th>
-<th valign="bottom">Sched</th>
-<th valign="bottom">PQ</th>
-<th valign="bottom">SQ</th>
-<th valign="bottom">RQ</th>
-<th valign="bottom">AP</th>
-<th valign="bottom">mIoU</th>
+<th valign="bottom">SBR</th>
+<th valign="bottom">Abs Rel</th>
+<th valign="bottom">RMSE</th>
+<th valign="bottom">log10</th>
+<th valign="bottom">δ < 1.25</th>
+<th valign="bottom">δ < 1.25^{2} </th>
+<th valign="bottom">δ < 1.25</th>
 <th valign="bottom">FPS</th>
 <th valign="bottom">download</th>
 <!-- TABLE BODY -->
