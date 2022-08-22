@@ -7,7 +7,7 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 <img src="https://github.com/jimmy9704/PhoMoNet/blob/main/image/Result2.png" width="800"/>
 [Web Demo](https://74c7-163-152-183-111.jp.ngrok.io)
 
-#### Results on the NYU-Depth-v2 dataset with different SBRs
+##### Results on the NYU-Depth-v2 dataset with different SBRs
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
