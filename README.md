@@ -6,8 +6,6 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 ##### visualization results:
 <img src="https://github.com/jimmy9704/PhoMoNet/blob/main/image/Result2.png" width="800"/>
 
-[Web Demo](https://74c7-163-152-183-111.jp.ngrok.io)
-
 ##### Results on the NYU-Depth-v2 dataset with different SBRs
 <table><tbody>
 <!-- START TABLE -->
@@ -61,7 +59,7 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 </tbody></table>
 
 ## Web demo
-[Here](https://74c7-163-152-183-111.jp.ngrok.io) you can simulate simple SPAD guidance and visualize the results.
+[Here](https://c9d6-163-152-183-111.jp.ngrok.io/) you can simulate simple SPAD guidance and visualize the results.
 
 ## Datasets
 **NYU-Depth-v2**: Please follow the instructions in [BTS](https://github.com/cleinc/bts) to download the training/test set.
