@@ -12,7 +12,7 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 <!-- TABLE HEADER -->
 <th valign="bottom">Method</th>
 <th valign="bottom">SBR</th>
-<th valign="bottom">Result Rel</th>
+<th valign="bottom">Result</th>
 
 <!-- TABLE BODY -->
 <tr><td align="left">PhoMoNet</td>
