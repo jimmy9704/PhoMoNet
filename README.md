@@ -12,49 +12,24 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 <!-- TABLE HEADER -->
 <th valign="bottom">Method</th>
 <th valign="bottom">SBR</th>
-<th valign="bottom">Abs Rel</th>
-<th valign="bottom">RMSE</th>
-<th valign="bottom">log10</th>
-<th valign="bottom">δ<1.25</th>
-<th valign="bottom">δ<1.25^{2} </th>
-<th valign="bottom">δ<1.25^{3} </th>
+<th valign="bottom">Result Rel</th>
 
 <!-- TABLE BODY -->
 <tr><td align="left">PhoMoNet</td>
 <td align="center">100</td>
-<td align="center">0.072</td>
-<td align="center">0.286</td>
-<td align="center">0.031 </td>
-<td align="center">0.952</td>
-<td align="center">0.991</td>
-<td align="center">0.997</td>
+<td align="center">download</td>
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">50</td>
-<td align="center">0.073</td>
-<td align="center">0.286</td>
-<td align="center">0.031 </td>
-<td align="center">0.952</td>
-<td align="center">0.991</td>
-<td align="center">0.997</td>
+<td align="center">download</td>
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">10</td>
-<td align="center">0.073</td>
-<td align="center">0.286</td>
-<td align="center">0.031 </td>
-<td align="center">0.952</td>
-<td align="center">0.991</td>
-<td align="center">0.997</td>
+<td align="center">download</td>
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">5</td>
-<td align="center">0.073</td>
-<td align="center">0.286</td>
-<td align="center">0.031</td>
-<td align="center">0.952</td>
-<td align="center">0.991</td>
-<td align="center">0.997</td>
+<td align="center">download</td>
 </tr>
 </tbody></table>
 
