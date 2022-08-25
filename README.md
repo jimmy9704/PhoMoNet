@@ -17,7 +17,7 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 <!-- TABLE BODY -->
 <tr><td align="left">PhoMoNet</td>
 <td align="center">100</td>
-<td align="center">download</td>
+<td align="center">[download](https://www.dropbox.com/s/y49gscpih89l167/sbr_100.zip?dl=0)</td>
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">50</td>
