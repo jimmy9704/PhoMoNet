@@ -13,7 +13,7 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 <th valign="bottom">Method</th>
 <th valign="bottom">SBR</th>
 <th valign="bottom">Result</th>
-
+https://www.dropbox.com/s/bfwpqquyiym5cq1/sbr_50.zip?dl=0
 <!-- TABLE BODY -->
 <tr><td align="left">PhoMoNet</td>
 <td align="center">100</td>
@@ -21,15 +21,15 @@ Official implementation of PhoMoNet: Monocular Depth Estimation Network with Sin
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">50</td>
-<td align="center"><a href="https://www.dropbox.com/s/y49gscpih89l167/sbr_50.zip?dl=0">download</td>
+<td align="center"><a href="https://www.dropbox.com/s/bfwpqquyiym5cq1/sbr_50.zip?dl=0">download</td>
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">10</td>
-<td align="center"><a href="https://www.dropbox.com/s/y49gscpih89l167/sbr_10.zip?dl=0">download</td>
+<td align="center"><a href="https://www.dropbox.com/s/ovxy7el8hv8rsi7/sbr_10.zip?dl=0">download</td>
 </tr>
 <tr><td align="left">PhoMoNet</td>
 <td align="center">5</td>
-<td align="center"><a href="https://www.dropbox.com/s/y49gscpih89l167/sbr_5.zip?dl=0">download</td>
+<td align="center"><a href="https://www.dropbox.com/s/65ym3afupzw6u0n/sbr_5.zip?dl=0">download</td>
 </tr>
 </tbody></table>
 
