@@ -6,32 +6,6 @@ Official implementation of [Monocular Depth Estimation Network with Single-Pixel
 ##### visualization results:
 <img src="https://github.com/jimmy9704/PhoMoNet/blob/main/image/Result.png" width="800"/>
 
-##### Results on the NYU-Depth-v2 dataset with different SBRs
-<table><tbody>
-<!-- START TABLE -->
-<!-- TABLE HEADER -->
-<th valign="bottom">Method</th>
-<th valign="bottom">SBR</th>
-<th valign="bottom">Result</th>
-<!-- TABLE BODY -->
-<tr><td align="left">PhoMoNet</td>
-<td align="center">100</td>
-<td align="center"> <a href="https://www.dropbox.com/s/y49gscpih89l167/sbr_100.zip?dl=0">download </td>
-</tr>
-<tr><td align="left">PhoMoNet</td>
-<td align="center">50</td>
-<td align="center"><a href="https://www.dropbox.com/s/bfwpqquyiym5cq1/sbr_50.zip?dl=0">download</td>
-</tr>
-<tr><td align="left">PhoMoNet</td>
-<td align="center">10</td>
-<td align="center"><a href="https://www.dropbox.com/s/ovxy7el8hv8rsi7/sbr_10.zip?dl=0">download</td>
-</tr>
-<tr><td align="left">PhoMoNet</td>
-<td align="center">5</td>
-<td align="center"><a href="https://www.dropbox.com/s/65ym3afupzw6u0n/sbr_5.zip?dl=0">download</td>
-</tr>
-</tbody></table>
-
 ## Web demo
 [Here](https://7f46-163-152-183-111.jp.ngrok.io/) you can simulate simple SPAD guidance and visualize the results.
 
