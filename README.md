@@ -1,5 +1,5 @@
 # PhoMoNet: Monocular Depth Estimation Network with Single-Pixel Depth Guidance
-Official implementation of PhoMoNet: Monocular Depth Estimation Network with Single-Pixel Depth Guidance
+Official implementation of [Monocular Depth Estimation Network with Single-Pixel Depth Guidance](https://doi.org/10.1364/OL.478375)
 
 ## Results
 
