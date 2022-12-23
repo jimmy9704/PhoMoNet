@@ -15,10 +15,15 @@ Official implementation of [Monocular Depth Estimation Network with Single-Pixel
 **RGB-SPAD**: Please follow the instructions in [single spad depth](https://github.com/computational-imaging/single_spad_depth) to download the test set.
 
 ## Testing
-Testing code will be available upon acceptance of our manuscript.
+Pretrained models can be downloaded form [here](https://www.dropbox.com/s/tswsg84ga76yq9x/PhoMoNet_adabins.pt?dl=0).
 
-## Training 
-Training code will be available upon acceptance of our manuscript.
+To reproduce the reported results in our paper, follow these steps:
+```
+Step1: download the trained models and put it in the ./trained_models.
+Step2: change the data and model paths in args_test_nyu.txt and args_test_real.txt
+Step3: run "python evaluate.py args_test_nyu.txt" for NYU-Depth-v2 dataset
+       run "python evaluate.py args_test_real.txt" for real RGB-SPAD dataset
+```
 
 ## Acknowledgments
 The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins) and [single spad depth](https://github.com/computational-imaging/single_spad_depth).
