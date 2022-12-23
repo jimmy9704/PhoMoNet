@@ -32,3 +32,14 @@ The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins) and [
 * [SSD (single spad depth)](https://github.com/computational-imaging/single_spad_depth)
 * [Adabins](https://github.com/shariqfarooq123/AdaBins)
 * [BTS](https://github.com/cleinc/bts)
+
+## Citation
+```
+@article{lee2022phomonet,
+  title={Monocular Depth Estimation Network with Single-Pixel Depth Guidance},
+  author={Lee, Hongjae and Park, Jinbum and Jeong Wooseok and Jung, Seung-Won},
+  journal={Optics Letters},
+  year={2022},
+  publisher={Optical Society of America}
+}
+```
