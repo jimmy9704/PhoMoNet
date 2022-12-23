@@ -22,7 +22,7 @@ To reproduce the reported results in our paper, follow these steps:
 Step1: download the trained models and put it in the ./trained_models.
 Step2: change the data and model paths in args_test_nyu.txt and args_test_real.txt
 Step3: run "python evaluate.py args_test_nyu.txt" for NYU-Depth-v2 dataset
-       run "python evaluate.py args_test_real.txt" for real RGB-SPAD dataset
+       run "python evaluate_real.py args_test_real.txt" for real RGB-SPAD dataset
 ```
 
 ## Acknowledgments
