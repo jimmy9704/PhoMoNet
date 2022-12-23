@@ -52,32 +52,3 @@ class Photon_Module(nn.Module):
         features = self.relu_2(self.conv3(x))
 
         return features
-
-# class Photon_Module(nn.Module):
-#     def __init__(self,input_features):
-#         super(Photon_Module, self).__init__()
-#         self.distance = nn.CosineSimilarity(dim=1, eps=1e-6)
-#         self.relu_1 = nn.Sequential(\
-#             nn.BatchNorm2d(input_features),\
-#             nn.LeakyReLU(inplace=True))
-#         self.relu_2 = nn.Sequential(\
-#             nn.BatchNorm2d(input_features),\
-#             nn.LeakyReLU(inplace=True))
-#         self.spad_layer = nn.Conv2d(input_features, input_features, kernel_size=1, stride=1)
-#         self.conv1 = nn.Conv2d(input_features*2, input_features, kernel_size=3, stride=1, padding=1)
-#         self.conv2 = nn.Conv2d(input_features, input_features, kernel_size=3, stride=1, padding=1)
-#         self.conv3 = nn.Conv2d(input_features, input_features, kernel_size=3, stride=1, padding=1)
-
-#     def forward(self, x, spad):
-#         spad_exp = spad.expand_as(x)
-#         w = self.distance(x,spad_exp).unsqueeze(1)
-#         w = w.abs()
-#         w = 0
-
-#         x_attention = torch.cat([x,spad_exp],dim=1)
-#         x_attention = self.conv1(x_attention)
-#         x = self.conv2(x)
-#         x = self.relu_1(x_attention*(1-w) + x*(w))
-#         features = self.relu_2(self.conv3(x))
-
-#         return features
