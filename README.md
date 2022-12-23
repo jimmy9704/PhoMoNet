@@ -11,8 +11,8 @@ Official implementation of [Monocular Depth Estimation Network with Single-Pixel
 
 ## Requirements
 * python3.9
-* pytorch==1.9.1
-* cuda11.6
+* pytorch==1.7.1
+* cuda10.2
 * pytorch3d
 
 ## Datasets
