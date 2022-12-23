@@ -9,6 +9,12 @@ Official implementation of [Monocular Depth Estimation Network with Single-Pixel
 ## Web demo
 [Here](https://7f46-163-152-183-111.jp.ngrok.io/) you can simulate simple SPAD guidance and visualize the results.
 
+## Requirements
+* python3.9
+* pytorch==1.9.1
+* cuda11.6
+* pytorch3d
+
 ## Datasets
 **NYU-Depth-v2**: Please follow the instructions in [BTS](https://github.com/cleinc/bts) to download the training/test set.
 
@@ -24,6 +30,9 @@ Step2: change the data and model paths in args_test_nyu.txt and args_test_real.t
 Step3: run "python evaluate.py args_test_nyu.txt" for NYU-Depth-v2 dataset
        run "python evaluate_real.py args_test_real.txt" for real RGB-SPAD dataset
 ```
+
+## Training
+We follow the training strategy of [Adabins](https://github.com/shariqfarooq123/AdaBins)
 
 ## Acknowledgments
 The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins) and [single spad depth](https://github.com/computational-imaging/single_spad_depth).
