@@ -1,0 +1,11 @@
+--input_height 480
+--input_width 640
+--max_depth 10
+--min_depth 1e-3
+
+--checkpoint_path ./trained_models/PhoMoNet_adabins.pt
+--data_path_eval ../dataset/captured/processed
+--gt_path_eval ../dataset/captured/processed
+--min_depth_eval 1e-3
+--max_depth_eval 10
+--eigen_crop
