@@ -13,7 +13,7 @@ Official implementation of [Monocular Depth Estimation Network with Single-Pixel
 * python3.9
 * pytorch==1.7.1
 * cuda10.2
-* pytorch3d
+* pytorch3d==0.6.2
 
 ## Datasets
 **NYU-Depth-v2**: Please follow the instructions in [BTS](https://github.com/cleinc/bts) to download the training/test set.
