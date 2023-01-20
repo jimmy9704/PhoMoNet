@@ -44,11 +44,16 @@ The code is based on [Adabins](https://github.com/shariqfarooq123/AdaBins) and [
 
 ## Citation
 ```
-@article{lee2022phomonet,
-  title={Monocular Depth Estimation Network with Single-Pixel Depth Guidance},
-  author={Lee, Hongjae and Park, Jinbum and Jeong Wooseok and Jung, Seung-Won},
-  journal={Optics Letters},
-  year={2022},
-  publisher={Optical Society of America}
-}
+@article{Lee:Phomonet,
+author = {Hongjae Lee and Jinbum Park and Wooseok Jeong and Seung-Won Jung},
+journal = {Opt. Lett.},
+number = {3},
+pages = {594--597},
+publisher = {Optica Publishing Group},
+title = {Monocular depth estimation network with single-pixel depth guidance},
+volume = {48},
+month = {Feb},
+year = {2023},
+url = {https://opg.optica.org/ol/abstract.cfm?URI=ol-48-3-594},
+doi = {10.1364/OL.478375}
 ```
