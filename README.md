@@ -6,9 +6,6 @@ Official implementation of [Monocular Depth Estimation Network with Single-Pixel
 ##### visualization results:
 <img src="https://github.com/jimmy9704/PhoMoNet/blob/main/image/Result.png" width="800"/>
 
-## Web demo
-[Here](https://ed53-163-152-183-111.ngrok-free.app/) you can simulate simple SPAD guidance and visualize the results.
-
 ## Requirements
 * python3.9
 * pytorch==1.7.1
